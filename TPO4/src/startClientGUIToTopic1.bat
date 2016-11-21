@@ -1,0 +1,1 @@
+@start "client to Queue" run zad1.ClientGUITopic topic1 topic1 

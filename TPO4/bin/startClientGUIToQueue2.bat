@@ -1,0 +1,1 @@
+@start "client to Queue" run zad1.ClientGUIQueue queue2 queue1
